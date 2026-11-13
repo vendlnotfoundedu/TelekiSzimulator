@@ -116,7 +116,7 @@
       "choices": [
         {
           "label": "Nem rossz eredménnyel",
-          "next": "11"
+          "next": "12"
         }
       ]
     },
@@ -130,7 +130,7 @@
       "choices": [
         {
           "label": "Nem jó eredménnyel",
-          "next": "11"
+          "next": "12"
         }
       ]
     },
@@ -144,7 +144,7 @@
       "choices": [
         {
           "label": "Váratlan infó",
-          "next": "11"
+          "next": "12"
         }
       ]
     },
@@ -158,9 +158,215 @@
       "choices": [
         {
           "label": "Váratlan infó",
-          "next": "11"
+          "next": "12"
         }
       ]
+    },
+    {
+      "id": "12",
+      "title": "Váratlan infó",
+      "level": 4,
+      "ending": false,
+      "text": "Meglepetés! Az igazgatóság táskaellenőrzést tart 5 perc múlva.",
+      "media": "",
+      "choices": [
+        {
+          "label": "Nincs nálam semmi",
+          "next": "13"
+        },
+        {
+          "label": "A telefonomat elhoztam...",
+          "next": "15"
+        },
+        {
+          "label": "A cigim a táskámba maradt...",
+          "next": "14"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Elmész a WC-re",
+      "level": 5,
+      "ending": false,
+      "text": "A mosdóba 2 diáktársad egy WC papír gurigával focizik... Két ismeretlen ember meg bent cigizik. Mi a következő lépésed?",
+      "media": "",
+      "choices": [
+        {
+          "label": "éhes vagyok, elmegyek büfébe...",
+          "next": "16"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Elmész a WC-re",
+      "level": 5,
+      "ending": false,
+      "text": "A cigidet elvették, az osztálytársaid kinevettek, és még egy igazgatóit is kaptál. \r\n\r\n\"Anyu ezért meg fog ölni...\" \r\n\r\nA mosdóba 2 diáktársad egy WC papír gurigával focizik... Két ismeretlen ember meg bent cigizik. Mi a következő lépésed?",
+      "media": "",
+      "choices": [
+        {
+          "label": "éhes vagyok, elmegyek büfébe...",
+          "next": "16"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Elmész a WC-re",
+      "level": 5,
+      "ending": false,
+      "text": "A telefonodat eltulajdonították, az osztálytársaid kinevettek, és még egy igazgatóit is kaptál. \r\n\r\n\"Anyu ennek nem fog örülni...\"\r\n\r\nA mosdóba 2 diáktársad egy WC papír gurigával focizik... Két ismeretlen ember meg bent cigizik. Mi a következő lépésed?",
+      "media": "",
+      "choices": [
+        {
+          "label": "éhes vagyok, elmegyek büfébe...",
+          "next": "16"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "\uD83E\uDD22",
+      "level": 6,
+      "ending": false,
+      "text": "3 percig bírtad, aztán sikeresen összehánytad magad. Valószínüleg ételmérgezés. Tesi tanár hazaküldött.\r\n\r\n(ROSSZ BEFEJEZÉS)",
+      "media": "",
+      "choices": []
+    },
+    {
+      "id": "16",
+      "title": "Elmentél a büfébe...",
+      "level": 6,
+      "ending": false,
+      "text": "Ahogy odaérsz a gyomrod erőteljesen meg morogja a látványt, avagy borzasztó éhes vagy. A választék itt is meg van.",
+      "media": "",
+      "choices": [
+        {
+          "label": "Melegszendvics (1500 FT)",
+          "next": "19"
+        },
+        {
+          "label": "Valamilyen zsemle? (450 FT)",
+          "next": "17"
+        },
+        {
+          "label": "Inkább hagyjuk... :(",
+          "next": "18"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Tesi óra",
+      "level": 6,
+      "ending": false,
+      "text": "Nagyon gyorsan átöltöztél és 2 perc késéssel beértél tesi órára. A tanár szabadfoglalkozást adott ki. Kezdesz émelyegni, de egyenlőre ignorálod.",
+      "media": "",
+      "choices": [
+        {
+          "label": "Elmegyek tollaslabdázni.",
+          "next": "20"
+        },
+        {
+          "label": "Elmegyek azték kidobózni.",
+          "next": "20"
+        },
+        {
+          "label": "Úgy teszek, mintha csinálnék valamit.",
+          "next": "20"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Tesi óra",
+      "level": 6,
+      "ending": false,
+      "text": "Nagyon gyorsan átöltöztél és 2 perc késéssel beértél tesi órára. A tanár szabadfoglalkozást adott ki. Nagyon éhes vagy, kezdesz gyengülni, de egyenlőre ignorálod.",
+      "media": "",
+      "choices": [
+        {
+          "label": "Elmegyek tollaslabdázni.",
+          "next": "21"
+        },
+        {
+          "label": "Elmegyek azték kidobózni.",
+          "next": "21"
+        },
+        {
+          "label": "Úgy teszek, mintha csinálnék valamit.",
+          "next": "21"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Tesi óra",
+      "level": 6,
+      "ending": false,
+      "text": "Nagyon gyorsan átöltöztél és 2 perc késéssel beértél tesi órára. A tanár szabadfoglalkozást adott ki.",
+      "media": "",
+      "choices": [
+        {
+          "label": "Elmegyek tollaslabdázni.",
+          "next": "22"
+        },
+        {
+          "label": "Elmegyek azték kidobózni.",
+          "next": "22"
+        },
+        {
+          "label": "Úgy teszek, mintha csinálnék valamit.",
+          "next": "22"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Uhh.....",
+      "level": 6,
+      "ending": false,
+      "text": "3 percig bírtad, aztán sikeresen elájultál. Valószínüleg azért, mert ma még nem ettél semmit. Mentőt hívtak rád. \r\n\r\n(ROSSZ BEFEJEZÉS)",
+      "media": "",
+      "choices": []
+    },
+    {
+      "id": "23",
+      "title": "\uD83E\uDD27",
+      "level": 7,
+      "ending": false,
+      "text": "Hirtelen rosszabb lett a közérzeted, elkezdtél remegni, és irányíthatatlan tüsszögésbe kezdesz. A tanár ezt észrevette és hazaküldött. Az orvos kiírt egész hétre.\r\n\r\n(?? BEFEJEZÉS)",
+      "media": "",
+      "choices": []
+    },
+    {
+      "id": "22",
+      "title": "Következő óra",
+      "level": 7,
+      "ending": false,
+      "text": "Borzasztóan leizzadtál tesin, de sikeresen beértél matekra. A fűtés viszont időközben elment, szóval kicsit cidri van.",
+      "media": "",
+      "choices": [
+        {
+          "label": "Fel kéne vennem a pulóverem",
+          "next": "24"
+        },
+        {
+          "label": "Kibírom",
+          "next": "23"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Szép!",
+      "level": 7,
+      "ending": false,
+      "text": "Felvetted a pulóvered, és végig ülted a matekot, habár majdnem bealudtál. Kicsengőkör az elsők között rohantál ki a teremből. \r\n\r\n(JÓ BEFEJEZÉS)",
+      "media": "",
+      "choices": []
     },
     {
       "id": "11",
