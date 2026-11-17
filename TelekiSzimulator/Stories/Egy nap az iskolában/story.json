@@ -44,7 +44,7 @@
       "level": 1,
       "ending": false,
       "text": "Szundit nyomok",
-      "media": "3.mp4",
+      "media": "3.jpg",
       "choices": [
         {
           "label": "Elkésem",
@@ -72,7 +72,7 @@
       "level": 2,
       "ending": false,
       "text": "Megyek a suliba",
-      "media": "",
+      "media": "6.mp4",
       "choices": [
         {
           "label": "Nincs felszerelés",
@@ -94,7 +94,7 @@
       "level": 2,
       "ending": false,
       "text": "Még alszok az órán",
-      "media": "",
+      "media": "5.jpg",
       "choices": [
         {
           "label": "Felelés",
@@ -112,7 +112,7 @@
       "level": 3,
       "ending": false,
       "text": "Szerintem nem lett vészes!",
-      "media": "",
+      "media": "9.jpg",
       "choices": [
         {
           "label": "Nem rossz eredménnyel",
@@ -125,8 +125,8 @@
       "title": "Felelés késve",
       "level": 3,
       "ending": false,
-      "text": "elkéstem és még felelek is.",
-      "media": "",
+      "text": "Elkéstem és még felelek is.",
+      "media": "7.mp4",
       "choices": [
         {
           "label": "Nem jó eredménnyel",
@@ -140,7 +140,7 @@
       "level": 3,
       "ending": false,
       "text": "Nem ébredtem még fel",
-      "media": "",
+      "media": "8.jpg",
       "choices": [
         {
           "label": "Váratlan infó",
@@ -154,7 +154,7 @@
       "level": 3,
       "ending": false,
       "text": "Persze hogy otthon maradt.",
-      "media": "",
+      "media": "10.jpg",
       "choices": [
         {
           "label": "Váratlan infó",
@@ -168,7 +168,7 @@
       "level": 4,
       "ending": false,
       "text": "Meglepetés! Az igazgatóság táskaellenőrzést tart 5 perc múlva.",
-      "media": "",
+      "media": "12.mp4",
       "choices": [
         {
           "label": "Nincs nálam semmi",
@@ -189,11 +189,11 @@
       "title": "Elmész a WC-re",
       "level": 5,
       "ending": false,
-      "text": "A mosdóba 2 diáktársad egy WC papír gurigával focizik... Két ismeretlen ember meg bent cigizik. Mi a következő lépésed?",
-      "media": "",
+      "text": "A mosdóban 2 diáktársad egy WC papír gurigával focizik... Két ismeretlen ember meg bent cigizik. Mi a következő lépésed?",
+      "media": "13.gif",
       "choices": [
         {
-          "label": "éhes vagyok, elmegyek büfébe...",
+          "label": "Éhes vagyok, elmegyek büfébe...",
           "next": "16"
         }
       ]
@@ -203,11 +203,11 @@
       "title": "Elmész a WC-re",
       "level": 5,
       "ending": false,
-      "text": "A cigidet elvették, az osztálytársaid kinevettek, és még egy igazgatóit is kaptál. \r\n\r\n\"Anyu ezért meg fog ölni...\" \r\n\r\nA mosdóba 2 diáktársad egy WC papír gurigával focizik... Két ismeretlen ember meg bent cigizik. Mi a következő lépésed?",
-      "media": "",
+      "text": "A cigidet elvették, az osztálytársaid kinevettek, és még egy igazgatóit is kaptál. \n\n\"Anyu ezért meg fog ölni...\" \n\nA mosdóban 2 diáktársad egy WC papír gurigával focizik... Két ismeretlen ember meg bent cigizik. Mi a következő lépésed?",
+      "media": "14.jpg",
       "choices": [
         {
-          "label": "éhes vagyok, elmegyek büfébe...",
+          "label": "Éhes vagyok, elmegyek büfébe...",
           "next": "16"
         }
       ]
@@ -217,22 +217,22 @@
       "title": "Elmész a WC-re",
       "level": 5,
       "ending": false,
-      "text": "A telefonodat eltulajdonították, az osztálytársaid kinevettek, és még egy igazgatóit is kaptál. \r\n\r\n\"Anyu ennek nem fog örülni...\"\r\n\r\nA mosdóba 2 diáktársad egy WC papír gurigával focizik... Két ismeretlen ember meg bent cigizik. Mi a következő lépésed?",
-      "media": "",
+      "text": "A telefonodat eltulajdonították, az osztálytársaid kinevettek, és még egy igazgatóit is kaptál. \n\n\"Anyu ennek nem fog örülni...\"\n\nA mosdóban 2 diáktársad egy WC papír gurigával focizik... Két ismeretlen ember meg bent cigizik. Mi a következő lépésed?",
+      "media": "15.jpg",
       "choices": [
         {
-          "label": "éhes vagyok, elmegyek büfébe...",
+          "label": "Éhes vagyok, elmegyek büfébe...",
           "next": "16"
         }
       ]
     },
     {
       "id": "20",
-      "title": "\uD83E\uDD22",
+      "title": "🤢",
       "level": 6,
       "ending": false,
-      "text": "3 percig bírtad, aztán sikeresen összehánytad magad. Valószínüleg ételmérgezés. Tesi tanár hazaküldött.\r\n\r\n(ROSSZ BEFEJEZÉS)",
-      "media": "",
+      "text": "3 percig bírtad, aztán sikeresen összehánytad magad. Valószínűleg ételmérgezés. Tesi tanár hazaküldött.\n\n(ROSSZ BEFEJEZÉS)",
+      "media": "20.jpg",
       "choices": []
     },
     {
@@ -240,8 +240,8 @@
       "title": "Elmentél a büfébe...",
       "level": 6,
       "ending": false,
-      "text": "Ahogy odaérsz a gyomrod erőteljesen meg morogja a látványt, avagy borzasztó éhes vagy. A választék itt is meg van.",
-      "media": "",
+      "text": "Ahogy odaérsz a gyomrod erőteljesen megmorogja a látványt, avagy borzasztó éhes vagy. A választék itt is meg van.",
+      "media": "16.jpg",
       "choices": [
         {
           "label": "Melegszendvics (1500 FT)",
@@ -263,7 +263,7 @@
       "level": 6,
       "ending": false,
       "text": "Nagyon gyorsan átöltöztél és 2 perc késéssel beértél tesi órára. A tanár szabadfoglalkozást adott ki. Kezdesz émelyegni, de egyenlőre ignorálod.",
-      "media": "",
+      "media": "17.jpg",
       "choices": [
         {
           "label": "Elmegyek tollaslabdázni.",
@@ -285,7 +285,7 @@
       "level": 6,
       "ending": false,
       "text": "Nagyon gyorsan átöltöztél és 2 perc késéssel beértél tesi órára. A tanár szabadfoglalkozást adott ki. Nagyon éhes vagy, kezdesz gyengülni, de egyenlőre ignorálod.",
-      "media": "",
+      "media": "18.jpg",
       "choices": [
         {
           "label": "Elmegyek tollaslabdázni.",
@@ -307,7 +307,7 @@
       "level": 6,
       "ending": false,
       "text": "Nagyon gyorsan átöltöztél és 2 perc késéssel beértél tesi órára. A tanár szabadfoglalkozást adott ki.",
-      "media": "",
+      "media": "19.jpg",
       "choices": [
         {
           "label": "Elmegyek tollaslabdázni.",
@@ -328,17 +328,17 @@
       "title": "Uhh.....",
       "level": 6,
       "ending": false,
-      "text": "3 percig bírtad, aztán sikeresen elájultál. Valószínüleg azért, mert ma még nem ettél semmit. Mentőt hívtak rád. \r\n\r\n(ROSSZ BEFEJEZÉS)",
-      "media": "",
+      "text": "3 percig bírtad, aztán sikeresen elájultál. Valószínüleg azért, mert ma még nem ettél semmit. Mentőt hívtak rád. \n\n(ROSSZ BEFEJEZÉS)",
+      "media": "21.jpg",
       "choices": []
     },
     {
       "id": "23",
-      "title": "\uD83E\uDD27",
+      "title": "🤧",
       "level": 7,
       "ending": false,
-      "text": "Hirtelen rosszabb lett a közérzeted, elkezdtél remegni, és irányíthatatlan tüsszögésbe kezdesz. A tanár ezt észrevette és hazaküldött. Az orvos kiírt egész hétre.\r\n\r\n(KÖZEPES BEFEJEZÉS)",
-      "media": "",
+      "text": "Hirtelen rosszabb lett a közérzeted, elkezdtél remegni, és irányíthatatlan tüsszögésbe kezdesz. A tanár ezt észrevette és hazaküldött. Az orvos kiírt egész hétre.\n\n(KÖZEPES BEFEJEZÉS)",
+      "media": "23.jpg",
       "choices": []
     },
     {
@@ -347,7 +347,7 @@
       "level": 7,
       "ending": false,
       "text": "Borzasztóan leizzadtál tesin, de sikeresen beértél matekra. A fűtés viszont időközben elment, szóval kicsit cidri van.",
-      "media": "",
+      "media": "22.jpg",
       "choices": [
         {
           "label": "Fel kéne vennem a pulóverem",
@@ -364,16 +364,16 @@
       "title": "Szép!",
       "level": 7,
       "ending": false,
-      "text": "Felvetted a pulóvered, és végig ülted a matekot, habár majdnem bealudtál. Kicsengőkör az elsők között rohantál ki a teremből. \r\n\r\n(JÓ BEFEJEZÉS)",
-      "media": "",
+      "text": "Felvetted a pulóvered, és végig ülted a matekot, habár majdnem bealudtál. Kicsengőkör az elsők között rohantál ki a teremből. \n\n(JÓ BEFEJEZÉS)",
+      "media": "24.mp4",
       "choices": []
     },
     {
       "id": "11",
-      "title": "vége",
+      "title": "Vége",
       "level": 0,
       "ending": true,
-      "text": "ez az utolsó",
+      "text": "Ez az utolsó",
       "media": "",
       "choices": []
     }
